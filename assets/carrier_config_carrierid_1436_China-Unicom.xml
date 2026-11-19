@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <carrier_config>
     <boolean name="allow_emergency_numbers_in_call_log_bool" value="true"/>
+    <boolean name="carrier_name_override_bool" value="true" />
+    <string name="carrier_name_string">中国联通</string>
+    <boolean name="spn_display_rule_use_roaming_from_service_state_bool" value="true" />
 </carrier_config>
